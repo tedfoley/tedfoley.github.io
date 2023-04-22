@@ -1,14 +1,10 @@
 title: Timothy Foley # your name (or website title) here
 logo: "/images/websitephoto.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
-  <br>
   Undergrad at the University of Chicago studying Mathematics and Fundamentals. 
-  <br>
-  Second description 
-  <br>
+  <br><br>
   I code too; Here are some of my projects.
-  <br>
+  <br><br>
   <a href="https://www.linkedin.com/in/timothy-f-a599a6179/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
