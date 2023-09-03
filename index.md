@@ -5,7 +5,7 @@
 ### HVAC Demand Response Cycling Model
 
 [Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Screenshot 2023-09-03 at 18.44.39.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
