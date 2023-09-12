@@ -25,7 +25,7 @@ Project description: During a Demand Response (DR) event, enrolled buildings mus
 
 ### Honors Econometrics Final Project - Diff in Diff Analysis of 
 
-Project description: Insert here
+Project description: Government agencies and private foundations distribute billions of dollars in financial aid to college-goers each year, in the hopes of boosting educational attainment. Tennessee, for example, guarantees no-cost tuition for all high school graduates at in-state community and technical colleges. In this report, I investigate the potential impact of this state-run program on Tennessee college enrollment using a diff-in-diff analysis of Tennessee state education datasets.
 
 [Report](/pdf/HW_4_Metrics_Teddy_Foley.pdf)
 
