@@ -16,14 +16,21 @@ Project description: Given data on every app and website a user clicked on durin
 
 Project description: During a Demand Response (DR) event, enrolled buildings must cut their total energy usage over a requested amount of time (the DR event length) by a predetermined amount (the nominated load). In order to accurately calculate the nominated load for a given building, I implemented a model which simulates a building undergoing a DR event by taking into account the interactions between HVAC units, building zones, ambient climate conditions, and a predetermined DR HVAC cycling strategy.
 
-[Colab](/https://colab.research.google.com/drive/14HBJovbhSre0ONfOIJTrOLwPnZpFoNP7?usp=sharing)
+<https://colab.research.google.com/drive/14HBJovbhSre0ONfOIJTrOLwPnZpFoNP7?usp=sharing>
 
 <img src="images/Screenshot 2023-09-03 at 18.44.39.png?raw=true"/>
 
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+### Honors Econometrics Final Project - Diff in Diff Analysis of 
+
+Project description: Insert here
+
+<https://colab.research.google.com/drive/14HBJovbhSre0ONfOIJTrOLwPnZpFoNP7?usp=sharing>
+
+<img src="images/Screenshot 2023-09-03 at 18.44.39.png?raw=true"/>
+
 
 ---
 
