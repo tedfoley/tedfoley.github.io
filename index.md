@@ -4,11 +4,14 @@
 
 ### HVAC Demand Response Cycling Model
 
-[Colab](/sample_page)
+[Description](/sample_page.md)
+[Colab](/https://colab.research.google.com/drive/14HBJovbhSre0ONfOIJTrOLwPnZpFoNP7?usp=sharing)
 <img src="images/Screenshot 2023-09-03 at 18.44.39.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+
+### Categorization and ML with OpenAI Embeddings 
+[Github](/https://github.com/tedfoley/PatternsAnalysis)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
