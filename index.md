@@ -31,7 +31,7 @@ Project description: Government agencies and private foundations distribute bill
 
 [R Script](/pdf/Problem_Set_4.R)
 
-<img src="images/Screenshot 2023-09-03 at 18.44.39.png?raw=true"/>
+<img src="images/Screenshot 2023-09-12 at 19.18.14.png?raw=true"/>
 
 
 ---
