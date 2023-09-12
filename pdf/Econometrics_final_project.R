@@ -1,5 +1,3 @@
-#Problem Set 4
-
 setwd('/Users/teddyfoley/Desktop/metrics')
 library('tidyverse')
 library(ggplot2)
