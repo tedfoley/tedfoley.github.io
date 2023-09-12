@@ -27,7 +27,7 @@ Project description: During a Demand Response (DR) event, enrolled buildings mus
 
 Project description: Insert here
 
-<https://colab.research.google.com/drive/14HBJovbhSre0ONfOIJTrOLwPnZpFoNP7?usp=sharing>
+Link to R code here
 
 <img src="images/Screenshot 2023-09-03 at 18.44.39.png?raw=true"/>
 
