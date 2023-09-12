@@ -29,7 +29,7 @@ Project description: Government agencies and private foundations distribute bill
 
 [Report](/pdf/HW_4_Metrics_Teddy_Foley.pdf)
 
-[R Script](/pdf/Problem_Set_4.R)
+[R Script](/pdf/Econometrics_final_project.R)
 
 <img src="images/Screenshot 2023-09-12 at 19.18.14.png?raw=true"/>
 
