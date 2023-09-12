@@ -6,7 +6,7 @@
 
 Project description: Given data on every app and website a user clicked on during the work day, as well as their calendar, can you predict their productivity and task completion? That is the goal of this project, which can roughly be divided into two parts: categorization of apps/websites and prediction of user productivity. See the READ.ME for more. 
 
-[Github](/https://github.com/tedfoley/PatternsAnalysis)
+</https://github.com/tedfoley/PatternsAnalysis>
 
 <img src="images/Screenshot 2023-09-12 at 18.59.25.png?raw=true"/>
 
